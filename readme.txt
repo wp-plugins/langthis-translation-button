@@ -3,7 +3,7 @@ Contributors: LangThis.com
 Tags: translate, translation, languarge, langthis, widget
 Requires at least: 2.3
 Tested up to: 3.0.1
-Stable tag: 1.2.0
+Stable tag: 2.0.0
 
 Langthis Translation Widget allows any visitor to translate your site easily to about 55 Languarges. The button is added to the bottom of every post.
 
