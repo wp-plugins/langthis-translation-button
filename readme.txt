@@ -18,7 +18,7 @@ Notice! The LangThis button, will place a link to LangThis.com at your website.
 
 == Installation ==
 
-1. Upload `langthis.php` to the `/wp-content/plugins/` directory
+1. Upload the langthis folder to the '/wp-content/plugins/' directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Edit your language and site id(if you have one) in the Settings page.
 
@@ -30,7 +30,7 @@ Yes. The features you see today on Langthis will always be free.
 
 = Do I need to create an account? =
 
-No. You only need to create an account if you want to see analytics on wich pages are being tranlated. The button will work just fine without a account.
+No. You only need to create an account if you want to see analytics on which pages are being tranlated or if you want to customize your button. The button will also work just fine without a account.
 
 = Is JavaScript required? =
 
@@ -44,8 +44,9 @@ PHP 5+ is preferred; PHP 4 is supported.
 
 1. The button on a sample post.
 2. The open menu on a sample post.
-3. The settings interface on WordPress 3.0.1
+3. The settings interface on WordPress 3.0.4
 
 == Changelog ==
 
+= 2.0 =
 = 1.1.0 =
